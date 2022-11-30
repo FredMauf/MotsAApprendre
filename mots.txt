@@ -8,7 +8,7 @@ aujourd'hui
 auparavant
 auprès
 aussi
-aussitot
+aussitôt
 autant
 autour
 autrefois
@@ -17,4 +17,4 @@ avant
 avec
 beaucoup
 bien
-bientot
+bientôt
